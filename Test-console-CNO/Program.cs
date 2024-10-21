@@ -11,9 +11,9 @@ namespace Test_console_CNO
         static void Main(string[] args)
         {
             /*
-             * NAAM: 
+             * NAAM: Student 14
             */
-
+            Console.WriteLine("Dit is een test...");
 
         }
     }
